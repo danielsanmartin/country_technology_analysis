@@ -1,1 +1,3 @@
-# country_technology_analysis
+# Sobre este repositório
+
+Trabalho da DISCIPLINA DE MACHINE LEARNING E DEEP LEARNING (PCI 410068 ) do DEPARTAMENTO DE CIÊNCIA DE INFORMAÇÃO da UFSC.
